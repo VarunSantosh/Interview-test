@@ -1,0 +1,25 @@
+
+Project setup
+==================================
+
+1. Import this project as Maven in IDE and Right click and take a maven build using "clean install" command.
+2. Right Click on the project and select Run As and then click on Spring Boot App to start the project.
+
+Features achieved
+==================================
+1. Basic aggregation of results from different suppliers.
+2. Swagger 2 Documentation and it can be used to call the REST APIs. Swagger can be a accessed at http://localhost:8080/swagger-ui.html
+3. created 3 APIs 
+	i. BusyFlight API
+	ii. CrazyAir API
+	iii. ToughJet API
+
+Features not achieved
+==================================
+Couldn't complete the following features because of time constraint of 90 mins.
+1. Unit Testing
+2. Logging
+3. Date Format conversion(as of now it's hard coded at lot of places)
+
+If given some time, I could complete the missing features.
+  
